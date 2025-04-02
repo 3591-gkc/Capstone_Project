@@ -35,4 +35,6 @@ This project was carried out to obtain critical insights such as sales performan
 - **Customer Segmentation** 
 - **Supplier Performance** 
 - **Delivery Performance** 
-- **Regional Sales** 
+- **Regional Sales**
+---
+This project was undertaken to develop data analysis skills and understand real-world scenarios using the Northwind dataset. Feel free to get in touch if you have any questions or suggestions for improvement! 🚀

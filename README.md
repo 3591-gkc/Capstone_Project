@@ -31,8 +31,8 @@ This project was carried out to obtain critical insights such as sales performan
 
 #### Power BI Dashboards
 
-- **Sales Insights:** 
-- **Customer Segmentation:** 
-- **Supplier Performance:** 
-- **Delivery Performance:** 
-- **Regional Sales:** 
+- **Sales Insights** 
+- **Customer Segmentation** 
+- **Supplier Performance** 
+- **Delivery Performance** 
+- **Regional Sales** 
